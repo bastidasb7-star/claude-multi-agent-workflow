@@ -1,0 +1,17 @@
+{
+  "name": "quality-flow-marketplace",
+  "owner": {
+    "name": "Bryan Bastidas"
+  },
+  "metadata": {
+    "description": "Marketplace that ships the quality-flow plugin."
+  },
+  "plugins": [
+    {
+      "name": "quality-flow",
+      "source": "./",
+      "description": "Review, map test gaps and write missing tests for an Express API with one command.",
+      "version": "0.1.0"
+    }
+  ]
+}
